@@ -1,7 +1,7 @@
 # AceArorong.github.io
-This is a Student Portfolio Website - Project in Introduction to Computing
+Student Portfolio Website: An Introduction to Computing Project
 
-The Purple text on the Education tab, under Certifications, can be clicked to direct you to a Google Drive file.
+Note: The Purple text on the Education tab, under Certifications, can be clicked to direct you to a Google Drive file.
 
 
 MY WEBSITE PREVIEW:
